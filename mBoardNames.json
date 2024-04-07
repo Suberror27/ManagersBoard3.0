@@ -1,5 +1,11 @@
 [{
-    "managers": ["Abraham C", "Tony A", "Zac W"],
-    "sirtTeam": ["Clay W", "Robert T"],
+    "managers": ["Abraham C", "Tony A", "Zac W"]
+},
+{
+    "sirtTeam": ["Clay W", "Robert T"]
+    
+},
+{
     "fireBrigade": ["Isaias M", "Heather M"]
-}]
+}
+]
