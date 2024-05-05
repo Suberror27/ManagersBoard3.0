@@ -1,34 +1,30 @@
-
-{
+[{
     "managers": ["Zebra C", "Abraham C", "Tony A", "Zac W", "Abraham T", "Clay M"],
     "sirtTeam": ["Clay W", "Robert T"],
     "fireBrigade": ["Isaias M", "Heather M"]
-}
-
-[
-    {
-        "title": "The Great Gatsby",
-        "author": "F. Scott Fitzgerald",
-        "year": 1925
-    },
-    {
-        "title": "To Kill a Mockingbird",
-        "author": "Harper Lee",
-        "year": 1960
-    },
-    {
-        "title": "1984",
-        "author": "George Orwell",
-        "year": 1949
-    },
-    {
-        "title": "Pride and Prejudice",
-        "author": "Jane Austen",
-        "year": 1813
-    },
-    {
-        "title": "Book 2",
-        "author": "Jane Austen",
-        "year": 1813
-    }
-]
+},
+{
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "year": 1925
+},
+{
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "year": 1960
+},
+{
+    "title": "1984",
+    "author": "George Orwell",
+    "year": 1949
+},
+{
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "year": 1813
+},
+{
+    "title": "Book 2",
+    "author": "Jane Austen",
+    "year": 1813
+}]
